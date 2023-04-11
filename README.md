@@ -1,1 +1,1 @@
-# QR-Code-Component
+Randomizer pentru exercitii fortza
