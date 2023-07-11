@@ -1,1 +1,1 @@
-Randomizer pentru exercitii fortza
+Randomizer pentru imsgini
