@@ -1,1 +1,1 @@
-Randomizer pentru imsgini
+Randomizer pentru imagini
